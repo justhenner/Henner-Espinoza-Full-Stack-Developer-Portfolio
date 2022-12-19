@@ -1,0 +1,16 @@
+.box {
+    width: 250px;
+    height: 250px;
+}
+.box-blue {
+    color: whitesmoke;
+    background-color: steelblue;
+}
+.box-teal {
+    color: whitesmoke;
+    background-color: teal;
+}
+#section-1 {
+    color: black;
+    background-color: blue;
+}
