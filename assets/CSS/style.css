@@ -1,6 +1,5 @@
 html * {
-    font-family:sans-serif;
-    flex-wrap: wrap;
+    font-family:sans-serif,'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana;
 }
 
 
@@ -10,12 +9,20 @@ footer{
     text-align: center;
 }
 
+
 .container {
     display: inline;
     line-height: 25px;
     list-style-type: none;
 }
 
+#menu-1{
+    border-style: solid;
+    border-color: silver;
+    background-color:silver;
+    color: white;
+    text-emphasis-color: white;
+}
 
 .container ul li{
     display:inline;
@@ -31,6 +38,18 @@ img.one {
     height:25%;
     width:25%;
     position: relative;
+}
+
+img.two{
+    display: block;
+    width: 420px;
+    height: 425px;
+}
+
+img.three{
+    display: block;
+    width: 240px;
+    height: 250px;
 }
 
 #about-me{
@@ -49,6 +68,11 @@ img.one {
     margin: 10px 30px 20px 50px;
     padding: 30px;
     
+}
+
+#project-1:hover{
+    background-color: black;
+    color: aliceblue;
 }
 
 #project-2{
@@ -80,12 +104,4 @@ img.one {
 
 }
 
-.box-projects {
-    color: whitesmoke;
-    background-color: teal;
-}
 
-#section-1 {
-    color: black;
-    background-color: blue;
-}
