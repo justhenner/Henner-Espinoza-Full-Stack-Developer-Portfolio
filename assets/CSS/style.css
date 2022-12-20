@@ -3,42 +3,51 @@ html * {
 }
 
 
-header,
-footer{
+header{
     padding: 20px, 10px, 30px, 20px;
+    text-align: left;
+}
+
+footer{
+    padding: 20px, 0px, 30px, 20px;
     text-align: center;
 }
 
 
-.container {
-    display: inline;
-    line-height: 25px;
-    list-style-type: none;
-}
-
-#menu-1{
-    border-style: solid;
-    border-color: silver;
-    background-color:silver;
-    color: white;
-    text-emphasis-color: white;
+.categories ul li{
+    display:inline;
+    margin-left: 150px;
+    margin-right: 150px;
 }
 
 .container ul li{
     display:inline;
-    margin-left: 200px;
+    margin-left: 50;
     margin-right: 150px;
 }
-
 
 img.one {
     flex-wrap: wrap;
     display: inline-block;
-    margin-left: 350px;
-    height:25%;
-    width:25%;
+    margin-left: 120px00px;
+    height: 425px;
+    width:375px;
     position: relative;
 }
+
+.container p{
+    flex-wrap: wrap;
+    display: inline-block;
+    position: absolute;
+    padding-left: 50px;
+    padding-right: 375px;
+}
+
+
+@media screen and (max-width: 768px){
+    .container p{100%}
+}
+
 
 img.two{
     display: block;
@@ -52,20 +61,13 @@ img.three{
     height: 250px;
 }
 
-#about-me{
-    position: absolute;
-    display: inline-block;
-    flex-wrap: wrap;
-    padding-left: 50px;
-    padding-right: 375px;
-}
 
 #project-1{
     background-color: rgb(14, 111, 111);
     display: inline-block;
     width: 435px;
     height: 475px;
-    margin: 10px 30px 20px 50px;
+    margin: 10px 30px 20px 20px;
     padding: 30px;
     
 }
@@ -96,6 +98,9 @@ img.three{
     display: inline-block;
     padding-left: 100px;
 
+}
+.container h2 li{
+    color: white;
 }
 
 
