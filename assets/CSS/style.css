@@ -61,7 +61,7 @@ img.three{
 }
 
 #project-1{
-    background-color: aqua;
+    background-color: rgb(14, 111, 111);
     display: inline-block;
     width: 435px;
     height: 475px;
@@ -76,26 +76,20 @@ img.three{
 }
 
 #project-2{
-    background-color: rgb(30, 109, 83);
+    background-color: rgb(24, 111, 111);
     display: inline-block;
     width: 260px;
     height: 270px;
     margin: 5px 15px 10px 20px;
     padding: 20px
-   
 
 }
 
-#project-3{
-    background-color: rgb(13, 33, 183);
-    display: inline-block;
-    width: 260px;
-    height: 270px;
-    margin: 5px 20px 10px 30px;
-    padding: 20px;
-
-
+#project-2:hover{
+    background-color: black;
+    color:aliceblue
 }
+
 
 #contact {
     background-color: rgb(167, 166, 162);
