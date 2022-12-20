@@ -1,12 +1,14 @@
 # Henner-Espinoza-Full-Stack-Developer-Portfolio
 
 ## Technology Used
+
 <ul>
 <li>HTML                https://developer.mozilla.org/en-US/docs/Web/HTML </li>
 <li>CSS                 https://developer.mozilla.org/en-US/docs/Web/CSS </li>
 <li>Github              https://www.github.com </li>
 <li>Chrome Dev Tools    https://developer.chrome.com/docs/devtools/ </li>
 </ul>
+
 ## Description
 
 This repository and deployed project contain Henner's full stack developer portfolio including an about me section, projects and contact. 
@@ -27,6 +29,7 @@ Click on the 'about me', 'projects' and 'contact' in order to navigate to each s
 Click the project title to navigate to its microsite.
 
 ## Learning Points
+
 1. Links sometimes need to be closed out with '< /a>'
 2. The stylesheet can be added using the following format (mind the '.' and '/') "assets/css/style.css"
 3. Images can be added using the following format (mind the '.' and '/'): "assets/images/filename.jpg"
