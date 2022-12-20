@@ -1,12 +1,12 @@
 # Henner-Espinoza-Full-Stack-Developer-Portfolio
 
 ## Technology Used
-
-HTML                https://developer.mozilla.org/en-US/docs/Web/HTML
-CSS                 https://developer.mozilla.org/en-US/docs/Web/CSS
-Github              https://www.github.com
-Chrome Dev Tools    https://developer.chrome.com/docs/devtools/
-
+<ul>
+<li>HTML                https://developer.mozilla.org/en-US/docs/Web/HTML </li>
+<li>CSS                 https://developer.mozilla.org/en-US/docs/Web/CSS </li>
+<li>Github              https://www.github.com </li>
+<li>Chrome Dev Tools    https://developer.chrome.com/docs/devtools/ </li>
+</ul>
 ## Description
 
 This repository and deployed project contain Henner's full stack developer portfolio including an about me section, projects and contact. 
