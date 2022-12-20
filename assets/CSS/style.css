@@ -41,12 +41,9 @@ img.one {
     position: absolute;
     padding-left: 50px;
     padding-right: 375px;
+    max-height: 50px;
 }
 
-
-@media screen and (max-width: 768px){
-    .container p{100%}
-}
 
 
 img.two{
